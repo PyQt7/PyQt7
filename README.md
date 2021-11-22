@@ -1,4 +1,4 @@
-### Hi there 👋
+### PyQt7 = Programming year Query table 7
 
 <!--
 **PyQt7/PyQt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
